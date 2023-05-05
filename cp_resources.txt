@@ -1,0 +1,20 @@
+competitive coding useful resources
+--------------------------------------
+https://www.youtube.com/watch?v=bVKHRtafgPc
+
+HackerRank: https://www.hackerrank.com/
+Learn typing: https://www.keybr.com/
+Scratch: https://scratch.mit.edu/
+Learn C++: https://www.youtube.com/watch?v=mUQZ1...
+Competitive Programmer's Handbook: https://cses.fi/book/book.pdf
+GeeksForGeeks: https://www.geeksforgeeks.org/fundame...
+A2OJ Ladders: https://www.a2oj.com/Ladders.html
+Mostafa Saad's Junior Training Sheet: https://goo.gl/unDETI
+
+More videos about competitive programming will be coming soon!
+
+If this was helpful, consider liking or subscribing!
+
+Website: https://williamlin.io/
+Instagram: https://www.instagram.com/tmwilliamli...
+Twitter: https://twitter.com/tmwilliamlin168
